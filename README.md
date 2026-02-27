@@ -1,1 +1,1 @@
-# -Employee_Profile_Page
+This project demonstrates the basic structure of an HTML document by creating a simple Employee Profile Page. It uses common HTML tags such as headings, paragraphs, line breaks, horizontal rules, and comments. Basic styling is applied using internal CSS within the <head> section to enhance the appearance of the webpage.
